@@ -1,0 +1,6 @@
+@ApiBanck_HostAddress = http://localhost:5139
+
+GET {{ApiBanck_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
